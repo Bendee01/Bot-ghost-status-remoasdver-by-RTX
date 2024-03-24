@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching e-doga.hu"];
+const statusMessages = ["e-doga.hu","Online dolgozatok és házik"];
 
 
 let currentIndex = 0;
